@@ -1,7 +1,12 @@
 ![logo](https://github.com/AKPCODER38/AKPCODER38/blob/main/banner%20linkdein%20anmol.png)
 
+<h2 align="left">Hi! 🌟 Anmol Kumar Pandit</h2>
 
 ###
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=akpcoder38&label=Profile%20views&color=00BFFF&style=for-the-badge&logo=github&logoColor=white&labelColor=282c34&textColor=white&border=2" alt="akpcoder38" />
+</p>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -80,26 +85,18 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="left">
-    <p align="left">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=akpcoder38&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=DEG,000428,004e92&title_color=FF6A00&text_color=FFFFFF&icon_color=FF6A00" height="200" alt="AKPCODER38" />
+    <p align="left" style="display: flex; gap: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=akpcoder38&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=DEG,000428,004e92&title_color=FF6A00&text_color=FFFFFF&icon_color=FF6A00" height="180" alt="AKPCODER38" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akpcoder38&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&bg_color=DEG,000428,004e92&title_color=FF6A00&text_color=FFFFFF&icon_color=FF6A00" height="180" alt="languages graph" />
     </p>
 </div>
 
-
-
-  
-<p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akpcoder38&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&bg_color=0D1117&title_color=FF6A00&text_color=FFFFFF&icon_color=FF6A00" height="195" alt="languages graph" />
-</p>
 
 </p>
 <p align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AKPCODER38&theme=radical&hide_border=true&stroke=0000&background=DEG,000428,004e92&ring=FF6A00&fire=FF6A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6A00&sideLabels=FFFFFF&dates=FFFFFF&border_radius=15&fire_animation=glow&animation=fadeIn&sideNumsAnimation=blink" alt="AKPCODER38" />
 </p>
-###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akpcoder38&label=Profile%20views&color=0e75b6&style=flat" alt="akpcoder38" /> </p>
 
-###
+
