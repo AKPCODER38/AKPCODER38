@@ -10,15 +10,23 @@
 <p align="left">🔭 <b>I’m currently working on:</b><br>Fullstack Development<br><br>🌱<b>I’m currently learning:</b><br>NextJs ,ReactJs and TypeScript.<br><br><b>💬 Interested in:</b><br>JavaScript, React, Node.js.</p>
 
 ###
+<p align="left">
+  <a href="https://www.linkedin.com/in/akpcoder076" target="blank">
+    <img src="https://img.shields.io/badge/-akpcoder076-blue?style=for-the-badge&logo=linkedin" alt="akpcoder076" />
+  </a>
+</p>
+
+<p align="left"> 
+    <a href="https://twitter.com/akpcoder076" target="blank">
+        <img src="https://img.shields.io/twitter/follow/akpcoder076?logo=twitter&style=for-the-badge" alt="akpcoder076" />
+    </a> 
+</p>
 
 <h3 align="left">🌐 Socials:</h3>
 
 ###
 
 <div align="left">
-    <a href="https://linkedin.com/in/akpcoder076" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-    </a>
     <a href="https://www.leetcode.com/akp_coder">
         <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge"/>
     </a>
