@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">🔭 <b>I’m currently working on:</b><br>Fullstack Development<br><br>🌱<b>I’m currently learning:</b><br>NextJs ,ReactJs and TypeScript.<br><br><b>💬 Interested in:</b><br>JavaScript, React, Node.js.</p>
+<p align="left">🌱<b>I’m currently learning:</b><br>C++ DSA and Web Development.<br><br><b>💬 Interested in:</b><br>DBMS, React, Node.js.</p>
 
 ###
 <p align="left">
